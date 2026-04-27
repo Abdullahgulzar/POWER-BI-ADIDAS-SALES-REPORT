@@ -27,7 +27,7 @@ The dashboard visualizes key Adidas sales metrics through:
 
 ## 📸 Dashboard Preview
 
-![Adidas Sales Dashboard](screenshot.png)
+![Adidas Sales Dashboard](https://github.com/Abdullahgulzar/POWER-BI-ADIDAS-SALES-REPORT/blob/main/Screenshot%202026-04-26%20203902.png)
 
 ## 👤 Author
 
